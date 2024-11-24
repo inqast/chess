@@ -1,0 +1,14 @@
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/chess/Main.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/ChessBoard.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/ChessPiece.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/Color.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/Point.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/pieces/Bishop.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/pieces/Horse.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/pieces/King.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/pieces/Pawn.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/pieces/Queen.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/domain/chess/pieces/Rook.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/utils/Castling.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/utils/CheckMate.java
+/Users/vverner/study/mephi/java/chess/chess/src/main/java/utils/Moves.java
